@@ -26,9 +26,8 @@
 ```yaml
 name        : Reva Zaidan Azmi
 role        : IT Student & AI Explorer
-focus       : Web Development • AI • Vibecoding Enthusiast
-location    : Indonesia
-contact     : revazaidanazmi
+focus       : Web Development & Vibecoding Enthusiast
+contact     : revazaidanazmi@gmail.com
 status      : building cool things after midnight
 ```
 
