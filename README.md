@@ -6,9 +6,9 @@
 <div align="center">
 
 <h3>&nbsp; hey, i'm <strong>Reva Azmi</strong> — IT student, web dev, and proud full-stack debugger <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="28px" /></h3>
-<img src="https://komarev.com/ghpvc/?username=zaidanity&label=visitors&color=6699cc&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=revaazmi&label=visitors&color=6699cc&style=flat-square" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/zaidanity?label=followers&style=flat-square&color=6699cc&labelColor=0d1a2a" />
+<img src="https://img.shields.io/github/followers/revaazmi?label=followers&style=flat-square&color=6699cc&labelColor=0d1a2a" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&pause=1800&color=7ba3d9&center=true&vCenter=true&width=500&lines=building+things+at+the+intersection+of+web+%2B+ai...;sometimes+it+works.+sometimes+i+cry.+always+i+ship.;open+to+collabs+%E2%9C%A8" alt="Typing" />
