@@ -1,113 +1,135 @@
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
 <div align="center">
 
-<h3>&nbsp; hey, i'm <strong>Reva Azmi</strong> — IT student, web dev, and proud full-stack debugger <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="28px" /></h3>
-<img src="https://komarev.com/ghpvc/?username=revaazmi&label=visitors&color=6699cc&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/revaazmi?label=followers&style=flat-square&color=6699cc&labelColor=0d1a2a" />
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&pause=1800&color=7ba3d9&center=true&vCenter=true&width=500&lines=building+things+at+the+intersection+of+web+%2B+ai...;sometimes+it+works.+sometimes+i+cry.+always+i+ship.;open+to+collabs+%E2%9C%A8" alt="Typing" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
-
-<br/>
-
-<div align="left">
-
-```yaml
-name        : Reva Zaidan Azmi
-role        : IT Student & AI Explorer
-focus       : Web Development & Vibecoding Enthusiast
-contact     : revazaidanazmi@gmail.com
-status      : building cool things after midnight
-```
+<pre style="background:#111827;color:#7BA3D9;border:1px solid #1e293b;border-radius:8px;padding:16px;font-family:'JetBrains Mono',monospace;line-height:1.2;display:inline-block;">
+██████╗ ███████╗██╗   ██╗ █████╗      █████╗ ███████╗███╗   ███╗██╗
+██╔══██╗██╔════╝██║   ██║██╔══██╗    ██╔══██╗╚══███╔╝████╗ ████║██║
+██████╔╝█████╗  ██║   ██║███████║    ███████║  ███╔╝ ██╔████╔██║██║
+██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══██║    ██╔══██║ ███╔╝  ██║╚██╔╝██║██║
+██║  ██║███████╗ ╚████╔╝ ██║  ██║    ██║  ██║███████╗██║ ╚═╝ ██║██║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝
+</pre>
+<br>
+<img src="https://img.shields.io/badge/IT%20Student-7BA3D9?style=flat-square&labelColor=111827" />
+<img src="https://img.shields.io/badge/Web%20Developer-7BA3D9?style=flat-square&labelColor=111827" />
+<img src="https://img.shields.io/badge/AI%20Explorer-7BA3D9?style=flat-square&labelColor=111827" />
+<br>
+<img src="https://img.shields.io/badge/status-building%20cool%20things%20after%20midnight-7BA3D9?style=flat-square&labelColor=111827" />
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/revaazmi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=revazaidanazmi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/heyrevaazmi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<br>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
+### /about
 
-<br/>
+<pre style="background:#111827;color:#7BA3D9;border:1px solid #1e293b;border-radius:8px;padding:16px 20px;font-family:'JetBrains Mono',monospace;line-height:1.8;overflow-x:auto;">
+name        : <span style="color:#e2e8f0">Reva Zaidan Azmi</span>
+role        : <span style="color:#e2e8f0">IT Student &amp; AI Explorer</span>
+focus       : <span style="color:#e2e8f0">Web Development &amp; Vibecoding Enthusiast</span>
+contact     : <span style="color:#e2e8f0">revazaidanazmi@gmail.com</span>
+status      : <span style="color:#e2e8f0">building cool things after midnight</span>
+</pre>
 
-<div align="center">
-<br/><br/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php&theme=dark&perline=7" />
+<td width="50%" valign="top">
 
-<br/>
+### /connect
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,html,css,tailwind&theme=dark&perline=7" />
+<a href="https://www.linkedin.com/in/revaazmi">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<br>
+<a href="https://www.instagram.com/heyrevaazmi">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<br>
+<a href="mailto:revazaidanazmi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<br>
+<a href="https://www.revaazmi.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=7BA3D9" />
+</a>
 
-<br/>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,vscode&theme=dark&perline=7" />
+---
 
-</div>
-<br/><br/>
+### /github
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
+<table>
+<tr>
+<td width="42%" valign="top">
 
-<br/>
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=revaazmi&layout=donut-vertical&theme=tokyonight&hide_border=true" />
 
-<div align="center">
+</td>
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=revaazmi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=1e3a5f&title_color=8ab4f8&icon_color=6699cc&bg_color=0d0a1a&text_color=a8c8e8" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=revaazmi&theme=tokyonight&hide_border=false&ring=7ba3d9&fire=64b5f6&currStreakLabel=8ab4f8&border=1e3a5f&background=0d0a1a&sideLabels=a8c8e8&dates=5a7a9a&currStreakNum=b0d4f0&sideNums=b0d4f0" />
+<td width="58%" valign="top">
 
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=revaazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=revaazmi&langs_count=6&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=1e3a5f&bg_color=0d0a1a&title_color=8ab4f8&text_color=a8c8e8" />
+<br>
 
-</div>
+<img width="100%" src="https://streak-stats.demolab.com/?user=revaazmi&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
+</td>
+</tr>
+</table>
 
-<div align="center">
+---
 
-<img src="https://trophy.ryglcloud.net/?username=revaazmi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a2a4a&height=1&width=60%" />
-</div>
+### /stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revaazmi&theme=tokyo-night&hide_border=false&area=true&color=7ba3d9&line=5a8fc9&point=64b5f6&area_color=1e3a5f&bg_color=0d0a1a" width="100%" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php&theme=dark" />
 
-<br/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,html,css,tailwind&theme=dark" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,vscode&theme=dark" />
+
+</div>
+
+---
+
+### /activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revaazmi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.revaazmi.my.id">
+  <img src="https://img.shields.io/badge/%F0%9F%94%97%20portfolio-revaazmi.my.id-7BA3D9?style=for-the-badge&labelColor=111827" />
+</a>
+
+<img src="https://img.shields.io/badge/%E2%9A%A1%20status-building%20cool%20things%20after%20midnight-7BA3D9?style=for-the-badge&labelColor=111827" />
 
 </div>
