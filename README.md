@@ -1,13 +1,13 @@
 <div align="center">
 
-<pre style="background:#111827;color:#7BA3D9;border:1px solid #1e293b;border-radius:8px;padding:16px;font-family:'JetBrains Mono',monospace;line-height:1.2;display:inline-block;">
+```
 ██████╗ ███████╗██╗   ██╗ █████╗      █████╗ ███████╗███╗   ███╗██╗
 ██╔══██╗██╔════╝██║   ██║██╔══██╗    ██╔══██╗╚══███╔╝████╗ ████║██║
 ██████╔╝█████╗  ██║   ██║███████║    ███████║  ███╔╝ ██╔████╔██║██║
 ██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══██║    ██╔══██║ ███╔╝  ██║╚██╔╝██║██║
 ██║  ██║███████╗ ╚████╔╝ ██║  ██║    ██║  ██║███████╗██║ ╚═╝ ██║██║
 ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝
-</pre>
+```
 <br>
 <img src="https://img.shields.io/badge/IT%20Student-7BA3D9?style=flat-square&labelColor=111827" />
 <img src="https://img.shields.io/badge/Web%20Developer-7BA3D9?style=flat-square&labelColor=111827" />
@@ -25,13 +25,15 @@
 
 ### /about
 
-<pre style="background:#111827;color:#7BA3D9;border:1px solid #1e293b;border-radius:8px;padding:16px 20px;font-family:'JetBrains Mono',monospace;line-height:1.8;overflow-x:auto;">
-name        : <span style="color:#e2e8f0">Reva Zaidan Azmi</span>
-role        : <span style="color:#e2e8f0">IT Student &amp; AI Explorer</span>
-focus       : <span style="color:#e2e8f0">Web Development &amp; Vibecoding Enthusiast</span>
-contact     : <span style="color:#e2e8f0">revazaidanazmi@gmail.com</span>
-status      : <span style="color:#e2e8f0">building cool things after midnight</span>
-</pre>
+```js
+const reva = {
+  name    : "Reva Zaidan Azmi",
+  role    : "IT Student & AI Explorer",
+  focus   : "Web Development & Vibecoding Enthusiast",
+  contact : "revazaidanazmi@gmail.com",
+  status  : "building cool things after midnight"
+};
+```
 
 </td>
 
@@ -89,15 +91,42 @@ status      : <span style="color:#e2e8f0">building cool things after midnight</s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php&theme=dark" />
+<b>Languages</b>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=239120" />
+<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,html,css,tailwind&theme=dark" />
+<b>Frontend</b>
+<br>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,vscode&theme=dark" />
+<b>Backend</b>
+<br>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+
+<br>
+
+<b>Tools</b>
+<br>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 </div>
 
