@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/Web%20Developer-7BA3D9?style=flat-square&labelColor=111827" />
 <img src="https://img.shields.io/badge/AI%20Explorer-7BA3D9?style=flat-square&labelColor=111827" />
 <br>
-<img src="https://img.shields.io/badge/status-building%20cool%20things%20after%20midnight-7BA3D9?style=flat-square&labelColor=111827" />
-
 </div>
 
 <br>
@@ -30,7 +28,7 @@ const reva = {
   name    : "Reva Zaidan Azmi",
   role    : "IT Student & AI Explorer",
   focus   : "Web Development & Vibecoding Enthusiast",
-  contact : "revazaidanazmi@gmail.com",
+  contact : "hi@revaazmi.my.id",
   status  : "building cool things after midnight"
 };
 ```
@@ -42,19 +40,19 @@ const reva = {
 ### /connect
 
 <a href="https://www.linkedin.com/in/revaazmi">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-revaazmi-0A66C2?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" />
 </a>
 <br>
 <a href="https://www.instagram.com/heyrevaazmi">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram-%40heyrevaazmi-E4405F?style=for-the-badge&labelColor=111827&logo=instagram&logoColor=white" />
 </a>
 <br>
-<a href="mailto:revazaidanazmi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hi@revaazmi.my.id" target="_blank">
+  <img src="https://img.shields.io/badge/%20Email-hi%40revaazmi.my.id-7BA3D9?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
 </a>
 <br>
 <a href="https://www.revaazmi.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=7BA3D9" />
+  <img src="https://img.shields.io/badge/%20Portfolio-revaazmi.my.id-7BA3D9?style=for-the-badge&labelColor=111827&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -91,8 +89,6 @@ const reva = {
 
 <div align="center">
 
-<b>Languages</b>
-<br>
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -100,28 +96,13 @@ const reva = {
 <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=239120" />
 <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
-
-<br>
-
-<b>Frontend</b>
-<br>
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-
-<br>
-
-<b>Backend</b>
-<br>
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-
-<br>
-
-<b>Tools</b>
-<br>
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
@@ -148,17 +129,5 @@ const reva = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.revaazmi.my.id">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20portfolio-revaazmi.my.id-7BA3D9?style=for-the-badge&labelColor=111827" />
-</a>
-
-<img src="https://img.shields.io/badge/%E2%9A%A1%20status-building%20cool%20things%20after%20midnight-7BA3D9?style=for-the-badge&labelColor=111827" />
 
 </div>
