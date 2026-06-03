@@ -11,7 +11,7 @@
 <br>
 <img src="https://img.shields.io/badge/IT%20Student-7BA3D9?style=flat-square&labelColor=111827" />
 <img src="https://img.shields.io/badge/Web%20Developer-7BA3D9?style=flat-square&labelColor=111827" />
-<img src="https://img.shields.io/badge/AI%20Explorer-7BA3D9?style=flat-square&labelColor=111827" />
+<img src="https://img.shields.io/badge/Vibecoding%20Enthusiast-7BA3D9?style=flat-square&labelColor=111827" />
 <br>
 </div>
 
