@@ -117,14 +117,6 @@ const reva = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revaazmi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/revaazmi/revaazmi/output/pacman-contribution-graph-dark.svg" />
