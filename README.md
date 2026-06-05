@@ -46,6 +46,9 @@ const reva = {
 <a href="https://www.instagram.com/heyrevaazmi">
   <img src="https://img.shields.io/badge/Instagram-%40heyrevaazmi-E4405F?style=for-the-badge&labelColor=111827&logo=instagram&logoColor=white" />
 </a>
+<a href="https://www.tiktok.com/@heyrevaazmi">
+  <img src="https://img.shields.io/badge/Tiktok-%40heyrevaazmi-E4405F?style=for-the-badge&labelColor=111827&logo=tiktok&logoColor=white" />
+</a>
 <br>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hi@revaazmi.my.id" target="_blank">
   <img src="https://img.shields.io/badge/%20Email-hi%40revaazmi.my.id-7BA3D9?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
